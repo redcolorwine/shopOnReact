@@ -1,0 +1,41 @@
+.clothesPage{
+width: 100%;
+}
+
+.mainBlock {
+    display: flex;
+    justify-content: center;
+    
+}
+.mainBlock img{
+    width: 600px;
+    height: 700px;
+    margin-right: 100px;
+}
+.descriptionBlock{
+    font-size: 20pt;
+}
+.descriptionBlock img{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+button.addBut {
+    height: 40px;
+    font-size: 20pt;
+    margin-top: 20px;
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+}
+.size button{
+    width: 70px;
+    height: 40px;
+    background-color: aliceblue;
+    font-family: consolas;
+    font-size: 15pt;
+    cursor: pointer;
+}
+.otherSpec{
+    font-size: 15pt;
+}

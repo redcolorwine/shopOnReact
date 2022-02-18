@@ -1,0 +1,28 @@
+.AuthForm {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 15px;
+    font-family: consolas;
+}
+
+.AuthForm button {
+    
+    border-radius: 7px;
+    color:white;
+    background-color: black;
+}
+.AuthForm input{
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    outline: none;
+}
+.AuthForm input:focus{
+box-shadow: 0 0 15px burlywood;
+}
+.AuthForm a{
+    text-decoration: none;
+    color:burlywood;
+}

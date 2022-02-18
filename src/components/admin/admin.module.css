@@ -1,0 +1,21 @@
+.admin button {}
+
+.addButtons {
+    display: block;
+    width: 700px;
+    height: 80px;
+    margin: 40px;
+    font-size: 20pt;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.admin button:hover {
+    background-color: rgb(209, 131, 13);
+}
+
+.admin {
+    margin: 0 auto;
+    margin-top: 40px;
+}

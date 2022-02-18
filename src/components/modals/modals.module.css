@@ -1,0 +1,67 @@
+.createType input, .createBrand input, .createClothes input {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    height: 25px;
+}
+
+.createType button, .createBrand button, .createClothes button {
+    margin-top: 40px;
+    width: 100px;
+    font-size: 12pt;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.closeBut {
+    background-color: brown;
+    color: white;
+}
+
+button.closeButProp {
+    display: block;
+    margin: 0 auto;
+}
+
+.addBut {
+    background-color: burlywood;
+    color: white;
+}
+
+.createClothes button.addProp {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 25px;
+    width: 220px;
+    background-color: blanchedalmond;
+}
+
+.createBrand {}
+
+.createClothes {
+    padding: 5px;
+    margin-bottom: 5%;
+}
+
+.createClothes input.propsInput {
+    display: inline;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+select {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 40px;
+    font-size: 12pt;
+}
